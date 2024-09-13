@@ -25,4 +25,4 @@ This integration connects WooCommerce with Cryptlex for automatic license genera
 
 1. **Clone or download** this repository to your WordPress installation:
    ```bash
-   git clone https://github.com/yourusername/woocommerce-cryptlex-integration.git
+   git clone https://github.com/webDevMeena/woocommerce-cryptlex-integration.git
